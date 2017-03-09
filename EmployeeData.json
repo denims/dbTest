@@ -1,0 +1,27 @@
+[
+   {
+      "Name" : "Deni",
+      "Designation" : "CEO"
+   },
+   {
+      "Name" : "Test1",
+      "Designation" : "Software Engineer"
+   },
+   {
+      "Name" : "Test2",
+      "Designation" : "Admin"
+   },
+   {
+      "Name" : "Test3",
+      "Designation" : "HR"
+   },
+   {
+      "Name" : "Test4",
+      "Designation" : "Senior Software Engineer"
+   },
+   {
+      "Name" : "Test5",
+      "Designation" : "Lead"
+   }
+  
+]
